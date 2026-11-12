@@ -5,7 +5,7 @@ Implementación en C++17 de un BST iterativo, un Red-Black Tree y recorridos DFS
 ## Integrantes
 
 - Luciano Matías Sánchez Goicochea
-- Néstor Alonso De la Cruz Gómez
+- Néstor Alonso De la Cruz Gomez
 
 ## Estructura
  
