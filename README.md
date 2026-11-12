@@ -1,9 +1,12 @@
-
-
 # Tarea #6: Árboles y Grafos (CS2013 Programación III, 2026-2)
  
 Implementación en C++17 de un BST iterativo, un Red-Black Tree y recorridos DFS/BFS iterativos. No se usa recursión en el BST, ni en DFS (Problema 3) ni en BFS (Problema 4). Solo se usan `std::stack` y `std::queue`.
  
+## Integrantes
+
+- Luciano Matías Sánchez Goicochea
+- Néstor Alonso De la Cruz Gómez
+
 ## Estructura
  
 ```
@@ -120,4 +123,3 @@ Se usa `std::queue`. Tres métricas:
 DFS no sirve para estas métricas sin información extra, porque visita en orden de profundidad y no de nivel.
  
 Complejidad: $O(n)$ en tiempo y $O(w)$ en espacio, con $w$ el ancho máximo.
- 
